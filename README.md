@@ -35,10 +35,10 @@ We consider the following filter types:
 | Type of Filter | Ideal Impulse Response               |                       |
 |----------------|--------------------------------------|-----------------------|
 |                | hd[n], n <math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mo>≠</mo></math> 0 | hd[0] |
-| Lowpass        | Formula 1                            | \(2fc\)               |
-| Highpass       | Formula 2                            | \(1-2fc\)             |
-| Bandpass       | Formula 3                            | \(2(f2-f1)\)          |
-| Bandreject     | Formula 4                            | \(1-2(f2-f1)\)        |
+| Lowpass        | Formula 1                            | 2fc               |
+| Highpass       | Formula 2                            | 1-2fc             |
+| Bandpass       | Formula 3                            | 2(f2-f1)          |
+| Bandreject     | Formula 4                            | 1-2(f2-f1)        |
 
 ## Formulas
 
