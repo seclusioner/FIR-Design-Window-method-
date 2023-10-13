@@ -104,7 +104,7 @@ class FIRWIN():
          Bandpass    2f2*sin[nwc2]/nwc2         2(f2-f1)
                      - 2f1*sin[nwc1]/nwc1
         
-         Bandreject  2f1*sin[nwc1]/nwc1         2(f1-f2)
+         Bandreject  2f1*sin[nwc1]/nwc1         1-2(f2-f1)
                      - 2f2*sin[nwc2]/nwc2
         ------------------------------------------------------------
         '''
