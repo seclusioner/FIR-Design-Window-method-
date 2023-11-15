@@ -61,7 +61,7 @@ $$ 2f_{1} \cdot \frac{\sin(nwc_{1})}{nwc_{1}}-2f2 \cdot \frac{\sin(nwc2)}{nwc2} 
 
 ## Application
 
-$$ y[n] = \sum_{k=0}^{N} b[k] \cdot x[n-k] $$
+$$ y[n] = \sum_{k=0}^{N} h[k] \cdot x[n-k] $$
 
 <hr>
 <br>
