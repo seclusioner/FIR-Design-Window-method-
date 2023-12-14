@@ -127,7 +127,7 @@ class FIRWIN():
         h = hd * np.array(w)
         
         if(self.draw):
-            self.Filter_spec(h, Fs)
+            self.Filter_spec(h, self.Fs)
             
         return h
 
